@@ -19,3 +19,5 @@ An Arduino Uno compatible CAN shield. Either the Seeed Studio V2 or the Sparkfun
 Don't forget to check the IMechE website regularly for documentation updates:
 
 https://www.imeche.org/events/formula-student/team-information/forms-and-documents
+
+## Any questions, please raise an Issue and tag it with the 'question' label.
