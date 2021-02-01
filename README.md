@@ -2,7 +2,13 @@
 
 This is a 'placeholder' for the release of the 2020 verison of the IMechE FS-AI ADS-DV interface software.
 
+## Note for 2021
+
+#### Due to the postponement of the 2020 Formula Student competition to 2021 there will be no specific updates for 2021. All information in this repository will remain relevant for 2021.
+
 Please look at the 2019 repository https://github.com/FS-AI/FS-AI_2019 for an introduction. Don't forget to check out the issues as there is valuable info there: https://github.com/FS-AI/FS-AI_2019/issues
+
+Please note that discussion for 2020 / 2021 is conducted using Github Issues, see https://github.com/FS-AI/FS-AI_2020/issues
 
 For 2020 the plan is to release the interface as C source code that compiles on Linux and uses SocketCAN. No binary library will be used. This will improve flexibility but please note that technical support will only be provided for the base interface code, not any derivatives / forks.
 
