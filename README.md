@@ -12,6 +12,8 @@ Content will be added over the next few weeks relating to:
 * CAN communications
 * Bench testing
 
+Some existing info can be found here: https://github.com/FS-AI/FS-AI_Compute/issues/1
+
 ----
 Don't forget to check the IMechE website regularly for documentation updates:
 
